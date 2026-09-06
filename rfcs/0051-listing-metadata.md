@@ -1,5 +1,5 @@
 ---
-rfc: "0000"
+rfc: "0051"
 title: Listing metadata bag
 status: Draft
 authors: ["@SafeShows"]
@@ -9,7 +9,7 @@ supersedes: []
 superseded-by: []
 ---
 
-# RFC 0000: Listing metadata bag
+# RFC 0051: Listing metadata bag
 
 ## Summary
 
