@@ -4,7 +4,7 @@ title: Listing metadata bag
 status: Draft
 authors: ["@SafeShows"]
 created: 2026-09-06
-discussion:
+discussion: https://github.com/KSAModding/content-manager-design/pull/51
 supersedes: []
 superseded-by: []
 ---
